@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Affectations projets cpp" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Debug/Affectations Projets Cpp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug/obj" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="Release/Affectations projets cpp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="src/Group.cpp" />
+		<Unit filename="src/Group.h" />
+		<Unit filename="src/Groups.cpp" />
+		<Unit filename="src/Groups.h" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/Student.h" />
+		<Unit filename="src/Students.cpp" />
+		<Unit filename="src/Students.h" />
+		<Unit filename="src/Subject.cpp" />
+		<Unit filename="src/Subject.h" />
+		<Unit filename="src/Subjects.cpp" />
+		<Unit filename="src/Subjects.h" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

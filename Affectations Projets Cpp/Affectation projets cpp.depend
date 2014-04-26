@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1394049485 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Group.cpp
+	"Group.h"
+
+1393927602 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Group.h
+	"Student.h"
+	"Subject.h"
+
+1393963055 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Student.h
+	<iostream>
+
+1393962930 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Subject.h
+	<iostream>
+
+1394051031 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/main.cpp
+	<iostream>
+	"Groups.h"
+	"Students.h"
+	"Subjects.h"
+
+1394051112 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Groups.h
+	"Group.h"
+	"Students.h"
+	"Subjects.h"
+	<cstdlib>
+	<time.h>
+
+1394051193 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Students.h
+	"Student.h"
+
+1394051232 /home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Subjects.h
+	"Subject.h"
+
+1393956942 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Student.cpp
+	"Student.h"
+
+1394051274 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Students.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	"Students.h"
+
+1393928042 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Subject.cpp
+	"Subject.h"
+
+1394052103 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Subjects.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	"Subjects.h"
+
+1394051261 source:/home/dhia/workspace/eclipse/Affectations Projets Cpp/src/Groups.cpp
+	<fstream>
+	<iostream>
+	"Groups.h"
+
